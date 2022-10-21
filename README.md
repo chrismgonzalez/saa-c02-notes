@@ -1,4 +1,4 @@
-# AWS SAA-C02 notes
+# AWS SAA-C03 notes
 
 Within this repo are my notes taken from Adrian Cantrill's AWS Solutions Architect - Associate course.
 
